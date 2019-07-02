@@ -6,8 +6,8 @@
         "device": "*"
     },
     "files": [
-        "README.md",
-        "main.ts"
+        "images.smileys.ts",
+        "images.smileys.jres"
     ],
     "testFiles": [
         "test.ts"
